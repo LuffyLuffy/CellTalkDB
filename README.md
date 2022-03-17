@@ -1,4 +1,9 @@
 # CellTalkDB v1.0
+unzip the release and install locally  by devtools
+library(devtools)
+install('scsrctdb-1.0')
+library(scsrctdb)
+https://github.com/LuffyLuffy/CellTalkDB/releases
 
 ### A manually curated database of ligand-receptor interactions in human and mouse
 
